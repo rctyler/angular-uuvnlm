@@ -32,7 +32,7 @@
     "member-ordering": [
       true,
       {
-        "order": [
+        "order": [  sdv
           "static-field",
           "instance-field",
           "static-method",
